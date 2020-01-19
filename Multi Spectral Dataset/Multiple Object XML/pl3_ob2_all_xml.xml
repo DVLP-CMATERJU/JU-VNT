@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>pl3_ob2_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="159" width="59" x="186" y="23"/>
+         <taggedRectangle height="96" width="111" x="112" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="159" width="59" x="186" y="23"/>
+         <taggedRectangle height="96" width="111" x="112" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="159" width="59" x="186" y="23"/>
+         <taggedRectangle height="96" width="111" x="112" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="128" width="189" x="102" y="56"/>
+         <taggedRectangle height="95" width="112" x="112" y="39"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="128" width="189" x="102" y="56"/>
+         <taggedRectangle height="95" width="112" x="112" y="39"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="128" width="189" x="102" y="56"/>
+         <taggedRectangle height="95" width="112" x="112" y="39"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="257" x="54" y="99"/>
+         <taggedRectangle height="93" width="120" x="120" y="38"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="257" x="54" y="99"/>
+         <taggedRectangle height="93" width="120" x="120" y="38"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="257" x="54" y="99"/>
+         <taggedRectangle height="93" width="120" x="120" y="38"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="131" width="169" x="78" y="64"/>
+         <taggedRectangle height="98" width="113" x="139" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="131" width="169" x="78" y="64"/>
+         <taggedRectangle height="98" width="113" x="139" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="131" width="169" x="78" y="64"/>
+         <taggedRectangle height="98" width="113" x="139" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="161" width="47" x="128" y="47"/>
+         <taggedRectangle height="99" width="121" x="138" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="161" width="47" x="128" y="47"/>
+         <taggedRectangle height="99" width="121" x="138" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="161" width="47" x="128" y="47"/>
+         <taggedRectangle height="99" width="121" x="138" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="118" width="198" x="47" y="52"/>
+         <taggedRectangle height="98" width="118" x="126" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="118" width="198" x="47" y="52"/>
+         <taggedRectangle height="98" width="118" x="126" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="118" width="198" x="47" y="52"/>
+         <taggedRectangle height="98" width="118" x="126" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="44" width="250" x="49" y="78"/>
+         <taggedRectangle height="106" width="118" x="116" y="55"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="44" width="250" x="49" y="78"/>
+         <taggedRectangle height="106" width="118" x="116" y="55"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="44" width="250" x="49" y="78"/>
+         <taggedRectangle height="106" width="118" x="116" y="55"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="118" width="190" x="104" y="41"/>
+         <taggedRectangle height="101" width="119" x="111" y="55"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="118" width="190" x="104" y="41"/>
+         <taggedRectangle height="101" width="119" x="111" y="55"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pl3_ob2_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="118" width="190" x="104" y="41"/>
+         <taggedRectangle height="101" width="119" x="111" y="55"/>
+      </taggedRectangles>
+   </image>
+</tagset>

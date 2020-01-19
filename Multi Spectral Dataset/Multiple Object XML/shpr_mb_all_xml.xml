@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>shpr_mb_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="43" x="186" y="113"/>
+         <taggedRectangle height="92" width="63" x="138" y="72"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="43" x="186" y="113"/>
+         <taggedRectangle height="92" width="63" x="138" y="72"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="43" x="186" y="113"/>
+         <taggedRectangle height="92" width="63" x="138" y="72"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="56" x="176" y="120"/>
+         <taggedRectangle height="96" width="75" x="137" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="56" x="176" y="120"/>
+         <taggedRectangle height="96" width="75" x="137" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="56" x="176" y="120"/>
+         <taggedRectangle height="96" width="75" x="137" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="41" width="57" x="150" y="132"/>
+         <taggedRectangle height="79" width="57" x="151" y="64"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="41" width="57" x="150" y="132"/>
+         <taggedRectangle height="79" width="57" x="151" y="64"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="41" width="57" x="150" y="132"/>
+         <taggedRectangle height="79" width="57" x="151" y="64"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="59" x="132" y="121"/>
+         <taggedRectangle height="100" width="78" x="149" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="59" x="132" y="121"/>
+         <taggedRectangle height="100" width="78" x="149" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="59" x="132" y="121"/>
+         <taggedRectangle height="100" width="78" x="149" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="49" width="44" x="129" y="112"/>
+         <taggedRectangle height="91" width="64" x="158" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="49" width="44" x="129" y="112"/>
+         <taggedRectangle height="91" width="64" x="158" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="49" width="44" x="129" y="112"/>
+         <taggedRectangle height="91" width="64" x="158" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="47" width="38" x="127" y="101"/>
+         <taggedRectangle height="101" width="74" x="146" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="47" width="38" x="127" y="101"/>
+         <taggedRectangle height="101" width="74" x="146" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="47" width="38" x="127" y="101"/>
+         <taggedRectangle height="101" width="74" x="146" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="44" width="16" x="188" y="96"/>
+         <taggedRectangle height="100" width="63" x="142" y="70"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="44" width="16" x="188" y="96"/>
+         <taggedRectangle height="100" width="63" x="142" y="70"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="44" width="16" x="188" y="96"/>
+         <taggedRectangle height="100" width="63" x="142" y="70"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="36" x="184" y="97"/>
+         <taggedRectangle height="102" width="70" x="129" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="36" x="184" y="97"/>
+         <taggedRectangle height="102" width="70" x="129" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>shpr_mb_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="36" x="184" y="97"/>
+         <taggedRectangle height="102" width="70" x="129" y="65"/>
+      </taggedRectangles>
+   </image>
+</tagset>

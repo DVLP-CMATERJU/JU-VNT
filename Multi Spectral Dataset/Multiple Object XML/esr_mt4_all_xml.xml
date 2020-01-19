@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>esr_mt4_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="85" x="94" y="91"/>
+         <taggedRectangle height="156" width="161" x="128" y="38"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="85" x="94" y="91"/>
+         <taggedRectangle height="156" width="161" x="128" y="38"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="85" x="94" y="91"/>
+         <taggedRectangle height="156" width="161" x="128" y="38"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="80" width="102" x="97" y="72"/>
+         <taggedRectangle height="149" width="201" x="112" y="57"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="80" width="102" x="97" y="72"/>
+         <taggedRectangle height="149" width="201" x="112" y="57"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="80" width="102" x="97" y="72"/>
+         <taggedRectangle height="149" width="201" x="112" y="57"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="99" x="133" y="75"/>
+         <taggedRectangle height="125" width="211" x="102" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="99" x="133" y="75"/>
+         <taggedRectangle height="125" width="211" x="102" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="99" x="133" y="75"/>
+         <taggedRectangle height="125" width="211" x="102" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="84" width="100" x="175" y="64"/>
+         <taggedRectangle height="134" width="191" x="89" y="64"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="84" width="100" x="175" y="64"/>
+         <taggedRectangle height="134" width="191" x="89" y="64"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="84" width="100" x="175" y="64"/>
+         <taggedRectangle height="134" width="191" x="89" y="64"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="100" width="84" x="190" y="89"/>
+         <taggedRectangle height="153" width="167" x="79" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="100" width="84" x="190" y="89"/>
+         <taggedRectangle height="153" width="167" x="79" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="100" width="84" x="190" y="89"/>
+         <taggedRectangle height="153" width="167" x="79" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="113" x="168" y="114"/>
+         <taggedRectangle height="141" width="200" x="54" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="113" x="168" y="114"/>
+         <taggedRectangle height="141" width="200" x="54" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="113" x="168" y="114"/>
+         <taggedRectangle height="141" width="200" x="54" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="78" width="121" x="143" y="138"/>
+         <taggedRectangle height="130" width="218" x="68" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="78" width="121" x="143" y="138"/>
+         <taggedRectangle height="130" width="218" x="68" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="78" width="121" x="143" y="138"/>
+         <taggedRectangle height="130" width="218" x="68" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="87" width="112" x="117" y="127"/>
+         <taggedRectangle height="144" width="198" x="102" y="51"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="87" width="112" x="117" y="127"/>
+         <taggedRectangle height="144" width="198" x="102" y="51"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_mt4_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="87" width="112" x="117" y="127"/>
+         <taggedRectangle height="144" width="198" x="102" y="51"/>
+      </taggedRectangles>
+   </image>
+</tagset>

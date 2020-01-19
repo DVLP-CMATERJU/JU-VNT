@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>kr_pl3_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="111" x="183" y="62"/>
+         <taggedRectangle height="185" width="78" x="161" y="16"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="111" x="183" y="62"/>
+         <taggedRectangle height="185" width="78" x="161" y="16"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="111" x="183" y="62"/>
+         <taggedRectangle height="185" width="78" x="161" y="16"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="161" x="154" y="63"/>
+         <taggedRectangle height="139" width="258" x="84" y="25"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="161" x="154" y="63"/>
+         <taggedRectangle height="139" width="258" x="84" y="25"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="161" x="154" y="63"/>
+         <taggedRectangle height="139" width="258" x="84" y="25"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="143" x="137" y="82"/>
+         <taggedRectangle height="73" width="302" x="62" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="143" x="137" y="82"/>
+         <taggedRectangle height="73" width="302" x="62" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="143" x="137" y="82"/>
+         <taggedRectangle height="73" width="302" x="62" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="109" width="159" x="101" y="83"/>
+         <taggedRectangle height="176" width="202" x="122" y="47"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="109" width="159" x="101" y="83"/>
+         <taggedRectangle height="176" width="202" x="122" y="47"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="109" width="159" x="101" y="83"/>
+         <taggedRectangle height="176" width="202" x="122" y="47"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="119" x="128" y="78"/>
+         <taggedRectangle height="192" width="85" x="184" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="119" x="128" y="78"/>
+         <taggedRectangle height="192" width="85" x="184" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="119" x="128" y="78"/>
+         <taggedRectangle height="192" width="85" x="184" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="155" x="107" y="63"/>
+         <taggedRectangle height="159" width="232" x="81" y="69"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="155" x="107" y="63"/>
+         <taggedRectangle height="159" width="232" x="81" y="69"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="155" x="107" y="63"/>
+         <taggedRectangle height="159" width="232" x="81" y="69"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="88" width="148" x="140" y="92"/>
+         <taggedRectangle height="67" width="316" x="42" y="132"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="88" width="148" x="140" y="92"/>
+         <taggedRectangle height="67" width="316" x="42" y="132"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="88" width="148" x="140" y="92"/>
+         <taggedRectangle height="67" width="316" x="42" y="132"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="116" width="154" x="156" y="84"/>
+         <taggedRectangle height="155" width="268" x="63" y="86"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="116" width="154" x="156" y="84"/>
+         <taggedRectangle height="155" width="268" x="63" y="86"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_pl3_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="116" width="154" x="156" y="84"/>
+         <taggedRectangle height="155" width="268" x="63" y="86"/>
+      </taggedRectangles>
+   </image>
+</tagset>

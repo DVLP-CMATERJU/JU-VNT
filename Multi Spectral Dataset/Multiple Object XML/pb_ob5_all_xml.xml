@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>pb_ob5_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="138" width="132" x="112" y="51"/>
+         <taggedRectangle height="181" width="59" x="216" y="42"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="138" width="132" x="112" y="51"/>
+         <taggedRectangle height="181" width="59" x="216" y="42"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="138" width="132" x="112" y="51"/>
+         <taggedRectangle height="181" width="59" x="216" y="42"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="135" width="214" x="70" y="30"/>
+         <taggedRectangle height="130" width="241" x="92" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="135" width="214" x="70" y="30"/>
+         <taggedRectangle height="130" width="241" x="92" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="135" width="214" x="70" y="30"/>
+         <taggedRectangle height="130" width="241" x="92" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="79" width="187" x="99" y="51"/>
+         <taggedRectangle height="60" width="276" x="64" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="79" width="187" x="99" y="51"/>
+         <taggedRectangle height="60" width="276" x="64" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="79" width="187" x="99" y="51"/>
+         <taggedRectangle height="60" width="276" x="64" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="212" x="111" y="33"/>
+         <taggedRectangle height="130" width="233" x="88" y="80"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="212" x="111" y="33"/>
+         <taggedRectangle height="130" width="233" x="88" y="80"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="212" x="111" y="33"/>
+         <taggedRectangle height="130" width="233" x="88" y="80"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="144" width="139" x="164" y="45"/>
+         <taggedRectangle height="185" width="62" x="133" y="32"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="144" width="139" x="164" y="45"/>
+         <taggedRectangle height="185" width="62" x="133" y="32"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="144" width="139" x="164" y="45"/>
+         <taggedRectangle height="185" width="62" x="133" y="32"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="161" width="213" x="125" y="44"/>
+         <taggedRectangle height="148" width="191" x="77" y="33"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="161" width="213" x="125" y="44"/>
+         <taggedRectangle height="148" width="191" x="77" y="33"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="161" width="213" x="125" y="44"/>
+         <taggedRectangle height="148" width="191" x="77" y="33"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="192" x="131" y="86"/>
+         <taggedRectangle height="55" width="268" x="75" y="73"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="192" x="131" y="86"/>
+         <taggedRectangle height="55" width="268" x="75" y="73"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="192" x="131" y="86"/>
+         <taggedRectangle height="55" width="268" x="75" y="73"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="146" width="216" x="107" y="68"/>
+         <taggedRectangle height="137" width="218" x="142" y="43"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="146" width="216" x="107" y="68"/>
+         <taggedRectangle height="137" width="218" x="142" y="43"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pb_ob5_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="146" width="216" x="107" y="68"/>
+         <taggedRectangle height="137" width="218" x="142" y="43"/>
+      </taggedRectangles>
+   </image>
+</tagset>

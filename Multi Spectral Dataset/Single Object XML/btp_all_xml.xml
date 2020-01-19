@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>btp_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="135" x="113" y="69"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="135" x="113" y="69"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="135" x="113" y="69"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="124" x="119" y="77"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="124" x="119" y="77"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="124" x="119" y="77"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="123" x="122" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="123" x="122" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="123" x="122" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="93" width="129" x="115" y="83"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="93" width="129" x="115" y="83"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="93" width="129" x="115" y="83"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="132" x="121" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="132" x="121" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="132" x="121" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="126" x="120" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="126" x="120" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="126" x="120" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="95" width="128" x="117" y="83"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="95" width="128" x="117" y="83"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="95" width="128" x="117" y="83"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="115" x="123" y="80"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="115" x="123" y="80"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="115" x="123" y="80"/>
+      </taggedRectangles>
+   </image>
+</tagset>

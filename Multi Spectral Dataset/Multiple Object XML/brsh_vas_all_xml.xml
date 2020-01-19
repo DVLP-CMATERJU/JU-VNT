@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>brsh_vas_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="154" width="109" x="149" y="37"/>
+         <taggedRectangle height="109" width="69" x="191" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="154" width="109" x="149" y="37"/>
+         <taggedRectangle height="109" width="69" x="191" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="154" width="109" x="149" y="37"/>
+         <taggedRectangle height="109" width="69" x="191" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="221" x="110" y="41"/>
+         <taggedRectangle height="101" width="94" x="158" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="221" x="110" y="41"/>
+         <taggedRectangle height="101" width="94" x="158" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="221" x="110" y="41"/>
+         <taggedRectangle height="101" width="94" x="158" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="82" width="247" x="113" y="77"/>
+         <taggedRectangle height="99" width="93" x="156" y="63"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="82" width="247" x="113" y="77"/>
+         <taggedRectangle height="99" width="93" x="156" y="63"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="82" width="247" x="113" y="77"/>
+         <taggedRectangle height="99" width="93" x="156" y="63"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="200" x="149" y="86"/>
+         <taggedRectangle height="100" width="87" x="145" y="63"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="200" x="149" y="86"/>
+         <taggedRectangle height="100" width="87" x="145" y="63"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="200" x="149" y="86"/>
+         <taggedRectangle height="100" width="87" x="145" y="63"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="160" width="126" x="161" y="67"/>
+         <taggedRectangle height="106" width="71" x="151" y="59"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="160" width="126" x="161" y="67"/>
+         <taggedRectangle height="106" width="71" x="151" y="59"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="160" width="126" x="161" y="67"/>
+         <taggedRectangle height="106" width="71" x="151" y="59"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="155" width="203" x="89" y="71"/>
+         <taggedRectangle height="100" width="87" x="145" y="52"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="155" width="203" x="89" y="71"/>
+         <taggedRectangle height="100" width="87" x="145" y="52"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="155" width="203" x="89" y="71"/>
+         <taggedRectangle height="100" width="87" x="145" y="52"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="248" x="55" y="105"/>
+         <taggedRectangle height="103" width="104" x="152" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="248" x="55" y="105"/>
+         <taggedRectangle height="103" width="104" x="152" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="248" x="55" y="105"/>
+         <taggedRectangle height="103" width="104" x="152" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="119" width="222" x="59" y="70"/>
+         <taggedRectangle height="110" width="89" x="162" y="53"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="119" width="222" x="59" y="70"/>
+         <taggedRectangle height="110" width="89" x="162" y="53"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_vas_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="119" width="222" x="59" y="70"/>
+         <taggedRectangle height="110" width="89" x="162" y="53"/>
+      </taggedRectangles>
+   </image>
+</tagset>

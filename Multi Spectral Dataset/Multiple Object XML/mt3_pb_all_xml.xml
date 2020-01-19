@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>mt3_pb_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="65" x="165" y="38"/>
+         <taggedRectangle height="146" width="131" x="130" y="29"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="65" x="165" y="38"/>
+         <taggedRectangle height="146" width="131" x="130" y="29"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="65" x="165" y="38"/>
+         <taggedRectangle height="146" width="131" x="130" y="29"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="119" x="140" y="37"/>
+         <taggedRectangle height="157" width="216" x="95" y="24"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="119" x="140" y="37"/>
+         <taggedRectangle height="157" width="216" x="95" y="24"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="119" x="140" y="37"/>
+         <taggedRectangle height="157" width="216" x="95" y="24"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="168" x="112" y="58"/>
+         <taggedRectangle height="124" width="200" x="112" y="44"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="168" x="112" y="58"/>
+         <taggedRectangle height="124" width="200" x="112" y="44"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="168" x="112" y="58"/>
+         <taggedRectangle height="124" width="200" x="112" y="44"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="137" x="137" y="39"/>
+         <taggedRectangle height="159" width="238" x="92" y="30"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="137" x="137" y="39"/>
+         <taggedRectangle height="159" width="238" x="92" y="30"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="137" x="137" y="39"/>
+         <taggedRectangle height="159" width="238" x="92" y="30"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="68" x="172" y="35"/>
+         <taggedRectangle height="155" width="159" x="126" y="32"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="68" x="172" y="35"/>
+         <taggedRectangle height="155" width="159" x="126" y="32"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="68" x="172" y="35"/>
+         <taggedRectangle height="155" width="159" x="126" y="32"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="133" x="148" y="42"/>
+         <taggedRectangle height="161" width="220" x="95" y="37"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="133" x="148" y="42"/>
+         <taggedRectangle height="161" width="220" x="95" y="37"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="133" x="148" y="42"/>
+         <taggedRectangle height="161" width="220" x="95" y="37"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="51" width="172" x="130" y="79"/>
+         <taggedRectangle height="127" width="205" x="111" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="51" width="172" x="130" y="79"/>
+         <taggedRectangle height="127" width="205" x="111" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="51" width="172" x="130" y="79"/>
+         <taggedRectangle height="127" width="205" x="111" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="126" x="140" y="55"/>
+         <taggedRectangle height="170" width="219" x="95" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="126" x="140" y="55"/>
+         <taggedRectangle height="170" width="219" x="95" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt3_pb_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="126" x="140" y="55"/>
+         <taggedRectangle height="170" width="219" x="95" y="41"/>
+      </taggedRectangles>
+   </image>
+</tagset>

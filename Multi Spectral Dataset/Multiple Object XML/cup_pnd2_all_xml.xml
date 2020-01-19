@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>cup_pnd2_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="95" x="177" y="70"/>
+         <taggedRectangle height="86" width="68" x="144" y="89"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="95" x="177" y="70"/>
+         <taggedRectangle height="86" width="68" x="144" y="89"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="95" x="177" y="70"/>
+         <taggedRectangle height="86" width="68" x="144" y="89"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="86" x="174" y="79"/>
+         <taggedRectangle height="71" width="70" x="137" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="86" x="174" y="79"/>
+         <taggedRectangle height="71" width="70" x="137" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="86" x="174" y="79"/>
+         <taggedRectangle height="71" width="70" x="137" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="100" x="152" y="88"/>
+         <taggedRectangle height="47" width="53" x="218" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="100" x="152" y="88"/>
+         <taggedRectangle height="47" width="53" x="218" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="100" x="152" y="88"/>
+         <taggedRectangle height="47" width="53" x="218" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="98" x="133" y="86"/>
+         <taggedRectangle height="83" width="92" x="193" y="105"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="98" x="133" y="86"/>
+         <taggedRectangle height="83" width="92" x="193" y="105"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="98" x="133" y="86"/>
+         <taggedRectangle height="83" width="92" x="193" y="105"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="83" x="134" y="80"/>
+         <taggedRectangle height="88" width="69" x="187" y="109"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="83" x="134" y="80"/>
+         <taggedRectangle height="88" width="69" x="187" y="109"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="83" x="134" y="80"/>
+         <taggedRectangle height="88" width="69" x="187" y="109"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="94" x="134" y="71"/>
+         <taggedRectangle height="78" width="118" x="141" y="124"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="94" x="134" y="71"/>
+         <taggedRectangle height="78" width="118" x="141" y="124"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="94" x="134" y="71"/>
+         <taggedRectangle height="78" width="118" x="141" y="124"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="95" width="109" x="161" y="65"/>
+         <taggedRectangle height="59" width="121" x="138" y="130"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="95" width="109" x="161" y="65"/>
+         <taggedRectangle height="59" width="121" x="138" y="130"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="95" width="109" x="161" y="65"/>
+         <taggedRectangle height="59" width="121" x="138" y="130"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="92" x="174" y="64"/>
+         <taggedRectangle height="79" width="104" x="129" y="108"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="92" x="174" y="64"/>
+         <taggedRectangle height="79" width="104" x="129" y="108"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>cup_pnd2_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="92" x="174" y="64"/>
+         <taggedRectangle height="79" width="104" x="129" y="108"/>
+      </taggedRectangles>
+   </image>
+</tagset>

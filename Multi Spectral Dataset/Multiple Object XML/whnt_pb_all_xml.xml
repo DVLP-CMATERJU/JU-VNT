@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>whnt_pb_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="124" width="55" x="192" y="63"/>
+         <taggedRectangle height="137" width="125" x="86" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="124" width="55" x="192" y="63"/>
+         <taggedRectangle height="137" width="125" x="86" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="124" width="55" x="192" y="63"/>
+         <taggedRectangle height="137" width="125" x="86" y="58"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="163" x="142" y="92"/>
+         <taggedRectangle height="137" width="205" x="72" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="163" x="142" y="92"/>
+         <taggedRectangle height="137" width="205" x="72" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="163" x="142" y="92"/>
+         <taggedRectangle height="137" width="205" x="72" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="193" x="112" y="127"/>
+         <taggedRectangle height="95" width="178" x="110" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="193" x="112" y="127"/>
+         <taggedRectangle height="95" width="178" x="110" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="193" x="112" y="127"/>
+         <taggedRectangle height="95" width="178" x="110" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="149" x="95" y="96"/>
+         <taggedRectangle height="135" width="200" x="110" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="149" x="95" y="96"/>
+         <taggedRectangle height="135" width="200" x="110" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="149" x="95" y="96"/>
+         <taggedRectangle height="135" width="200" x="110" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="51" x="119" y="68"/>
+         <taggedRectangle height="132" width="126" x="153" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="51" x="119" y="68"/>
+         <taggedRectangle height="132" width="126" x="153" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="51" x="119" y="68"/>
+         <taggedRectangle height="132" width="126" x="153" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="136" x="80" y="57"/>
+         <taggedRectangle height="149" width="200" x="105" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="136" x="80" y="57"/>
+         <taggedRectangle height="149" width="200" x="105" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="136" x="80" y="57"/>
+         <taggedRectangle height="149" width="200" x="105" y="48"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="49" width="177" x="101" y="76"/>
+         <taggedRectangle height="104" width="182" x="109" y="86"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="49" width="177" x="101" y="76"/>
+         <taggedRectangle height="104" width="182" x="109" y="86"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="49" width="177" x="101" y="76"/>
+         <taggedRectangle height="104" width="182" x="109" y="86"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="157" x="148" y="58"/>
+         <taggedRectangle height="141" width="208" x="76" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="157" x="148" y="58"/>
+         <taggedRectangle height="141" width="208" x="76" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_pb_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="157" x="148" y="58"/>
+         <taggedRectangle height="141" width="208" x="76" y="65"/>
+      </taggedRectangles>
+   </image>
+</tagset>

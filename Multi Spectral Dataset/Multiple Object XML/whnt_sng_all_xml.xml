@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>whnt_sng_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="55" x="198" y="24"/>
+         <taggedRectangle height="179" width="109" x="118" y="3"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="55" x="198" y="24"/>
+         <taggedRectangle height="179" width="109" x="118" y="3"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="133" width="55" x="198" y="24"/>
+         <taggedRectangle height="179" width="109" x="118" y="3"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="185" x="132" y="55"/>
+         <taggedRectangle height="146" width="232" x="67" y="1"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="185" x="132" y="55"/>
+         <taggedRectangle height="146" width="232" x="67" y="1"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="185" x="132" y="55"/>
+         <taggedRectangle height="146" width="232" x="67" y="1"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="68" width="196" x="107" y="103"/>
+         <taggedRectangle height="111" width="261" x="74" y="34"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="68" width="196" x="107" y="103"/>
+         <taggedRectangle height="111" width="261" x="74" y="34"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="68" width="196" x="107" y="103"/>
+         <taggedRectangle height="111" width="261" x="74" y="34"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="157" x="84" y="86"/>
+         <taggedRectangle height="160" width="221" x="102" y="14"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="157" x="84" y="86"/>
+         <taggedRectangle height="160" width="221" x="102" y="14"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="157" x="84" y="86"/>
+         <taggedRectangle height="160" width="221" x="102" y="14"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="135" width="58" x="137" y="51"/>
+         <taggedRectangle height="191" width="127" x="169" y="9"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="135" width="58" x="137" y="51"/>
+         <taggedRectangle height="191" width="127" x="169" y="9"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="135" width="58" x="137" y="51"/>
+         <taggedRectangle height="191" width="127" x="169" y="9"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="171" x="90" y="63"/>
+         <taggedRectangle height="147" width="247" x="100" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="171" x="90" y="63"/>
+         <taggedRectangle height="147" width="247" x="100" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="171" x="90" y="63"/>
+         <taggedRectangle height="147" width="247" x="100" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="64" width="186" x="110" y="87"/>
+         <taggedRectangle height="85" width="272" x="61" y="98"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="64" width="186" x="110" y="87"/>
+         <taggedRectangle height="85" width="272" x="61" y="98"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="64" width="186" x="110" y="87"/>
+         <taggedRectangle height="85" width="272" x="61" y="98"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="112" width="147" x="134" y="52"/>
+         <taggedRectangle height="130" width="228" x="50" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="112" width="147" x="134" y="52"/>
+         <taggedRectangle height="130" width="228" x="50" y="61"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>whnt_sng_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="112" width="147" x="134" y="52"/>
+         <taggedRectangle height="130" width="228" x="50" y="61"/>
+      </taggedRectangles>
+   </image>
+</tagset>

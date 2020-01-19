@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>btp_cup_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="130" x="178" y="96"/>
+         <taggedRectangle height="106" width="87" x="127" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="130" x="178" y="96"/>
+         <taggedRectangle height="106" width="87" x="127" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="130" x="178" y="96"/>
+         <taggedRectangle height="106" width="87" x="127" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="123" x="168" y="107"/>
+         <taggedRectangle height="103" width="96" x="128" y="68"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="123" x="168" y="107"/>
+         <taggedRectangle height="103" width="96" x="128" y="68"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="98" width="123" x="168" y="107"/>
+         <taggedRectangle height="103" width="96" x="128" y="68"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="137" x="139" y="112"/>
+         <taggedRectangle height="80" width="99" x="149" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="137" x="139" y="112"/>
+         <taggedRectangle height="80" width="99" x="149" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="137" x="139" y="112"/>
+         <taggedRectangle height="80" width="99" x="149" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="130" x="118" y="112"/>
+         <taggedRectangle height="100" width="111" x="171" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="130" x="118" y="112"/>
+         <taggedRectangle height="100" width="111" x="171" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="130" x="118" y="112"/>
+         <taggedRectangle height="100" width="111" x="171" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="123" x="103" y="100"/>
+         <taggedRectangle height="109" width="94" x="187" y="85"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="123" x="103" y="100"/>
+         <taggedRectangle height="109" width="94" x="187" y="85"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="103" width="123" x="103" y="100"/>
+         <taggedRectangle height="109" width="94" x="187" y="85"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="119" x="113" y="83"/>
+         <taggedRectangle height="96" width="89" x="175" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="119" x="113" y="83"/>
+         <taggedRectangle height="96" width="89" x="175" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="119" x="113" y="83"/>
+         <taggedRectangle height="96" width="89" x="175" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="118" x="156" y="90"/>
+         <taggedRectangle height="104" width="109" x="157" y="116"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="118" x="156" y="90"/>
+         <taggedRectangle height="104" width="109" x="157" y="116"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="97" width="118" x="156" y="90"/>
+         <taggedRectangle height="104" width="109" x="157" y="116"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="126" x="182" y="84"/>
+         <taggedRectangle height="100" width="95" x="145" y="109"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="126" x="182" y="84"/>
+         <taggedRectangle height="100" width="95" x="145" y="109"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>btp_cup_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="126" x="182" y="84"/>
+         <taggedRectangle height="100" width="95" x="145" y="109"/>
+      </taggedRectangles>
+   </image>
+</tagset>

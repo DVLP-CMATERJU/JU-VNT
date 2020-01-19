@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>pncl_pnd2_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="127" width="42" x="170" y="53"/>
+         <taggedRectangle height="77" width="55" x="191" y="76"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="127" width="42" x="170" y="53"/>
+         <taggedRectangle height="77" width="55" x="191" y="76"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="127" width="42" x="170" y="53"/>
+         <taggedRectangle height="77" width="55" x="191" y="76"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="159" x="118" y="68"/>
+         <taggedRectangle height="71" width="100" x="166" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="159" x="118" y="68"/>
+         <taggedRectangle height="71" width="100" x="166" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="101" width="159" x="118" y="68"/>
+         <taggedRectangle height="71" width="100" x="166" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="47" width="200" x="112" y="101"/>
+         <taggedRectangle height="50" width="118" x="158" y="108"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="47" width="200" x="112" y="101"/>
+         <taggedRectangle height="50" width="118" x="158" y="108"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="47" width="200" x="112" y="101"/>
+         <taggedRectangle height="50" width="118" x="158" y="108"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="144" x="154" y="89"/>
+         <taggedRectangle height="66" width="98" x="147" y="106"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="144" x="154" y="89"/>
+         <taggedRectangle height="66" width="98" x="147" y="106"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="144" x="154" y="89"/>
+         <taggedRectangle height="66" width="98" x="147" y="106"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="130" width="50" x="182" y="75"/>
+         <taggedRectangle height="73" width="52" x="154" y="95"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="130" width="50" x="182" y="75"/>
+         <taggedRectangle height="73" width="52" x="154" y="95"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="130" width="50" x="182" y="75"/>
+         <taggedRectangle height="73" width="52" x="154" y="95"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="170" x="101" y="86"/>
+         <taggedRectangle height="71" width="103" x="124" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="170" x="101" y="86"/>
+         <taggedRectangle height="71" width="103" x="124" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="111" width="170" x="101" y="86"/>
+         <taggedRectangle height="71" width="103" x="124" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="197" x="92" y="120"/>
+         <taggedRectangle height="46" width="111" x="146" y="103"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="197" x="92" y="120"/>
+         <taggedRectangle height="46" width="111" x="146" y="103"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="50" width="197" x="92" y="120"/>
+         <taggedRectangle height="46" width="111" x="146" y="103"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="77" width="162" x="105" y="95"/>
+         <taggedRectangle height="61" width="104" x="161" y="92"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="77" width="162" x="105" y="95"/>
+         <taggedRectangle height="61" width="104" x="161" y="92"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>pncl_pnd2_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="77" width="162" x="105" y="95"/>
+         <taggedRectangle height="61" width="104" x="161" y="92"/>
+      </taggedRectangles>
+   </image>
+</tagset>

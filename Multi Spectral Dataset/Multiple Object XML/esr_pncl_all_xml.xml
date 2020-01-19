@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>esr_pncl_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="72" width="60" x="193" y="104"/>
+         <taggedRectangle height="132" width="51" x="178" y="74"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="72" width="60" x="193" y="104"/>
+         <taggedRectangle height="132" width="51" x="178" y="74"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="72" width="60" x="193" y="104"/>
+         <taggedRectangle height="132" width="51" x="178" y="74"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="68" width="79" x="187" y="108"/>
+         <taggedRectangle height="114" width="157" x="135" y="74"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="68" width="79" x="187" y="108"/>
+         <taggedRectangle height="114" width="157" x="135" y="74"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="68" width="79" x="187" y="108"/>
+         <taggedRectangle height="114" width="157" x="135" y="74"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="89" x="173" y="126"/>
+         <taggedRectangle height="42" width="198" x="128" y="120"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="89" x="173" y="126"/>
+         <taggedRectangle height="42" width="198" x="128" y="120"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="53" width="89" x="173" y="126"/>
+         <taggedRectangle height="42" width="198" x="128" y="120"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="61" width="91" x="156" y="119"/>
+         <taggedRectangle height="107" width="153" x="142" y="94"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="61" width="91" x="156" y="119"/>
+         <taggedRectangle height="107" width="153" x="142" y="94"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="61" width="91" x="156" y="119"/>
+         <taggedRectangle height="107" width="153" x="142" y="94"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="63" width="74" x="157" y="114"/>
+         <taggedRectangle height="127" width="66" x="183" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="63" width="74" x="157" y="114"/>
+         <taggedRectangle height="127" width="66" x="183" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="63" width="74" x="157" y="114"/>
+         <taggedRectangle height="127" width="66" x="183" y="90"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="101" x="151" y="111"/>
+         <taggedRectangle height="89" width="173" x="119" y="112"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="101" x="151" y="111"/>
+         <taggedRectangle height="89" width="173" x="119" y="112"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="101" x="151" y="111"/>
+         <taggedRectangle height="89" width="173" x="119" y="112"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="81" x="172" y="116"/>
+         <taggedRectangle height="48" width="216" x="91" y="132"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="81" x="172" y="116"/>
+         <taggedRectangle height="48" width="216" x="91" y="132"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="48" width="81" x="172" y="116"/>
+         <taggedRectangle height="48" width="216" x="91" y="132"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="57" width="85" x="173" y="107"/>
+         <taggedRectangle height="90" width="167" x="111" y="101"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="57" width="85" x="173" y="107"/>
+         <taggedRectangle height="90" width="167" x="111" y="101"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>esr_pncl_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="57" width="85" x="173" y="107"/>
+         <taggedRectangle height="90" width="167" x="111" y="101"/>
+      </taggedRectangles>
+   </image>
+</tagset>

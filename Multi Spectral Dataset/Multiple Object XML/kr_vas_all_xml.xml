@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>kr_vas_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="111" x="169" y="90"/>
+         <taggedRectangle height="116" width="94" x="123" y="68"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="111" x="169" y="90"/>
+         <taggedRectangle height="116" width="94" x="123" y="68"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="111" x="169" y="90"/>
+         <taggedRectangle height="116" width="94" x="123" y="68"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="112" width="151" x="143" y="93"/>
+         <taggedRectangle height="106" width="103" x="126" y="60"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="112" width="151" x="143" y="93"/>
+         <taggedRectangle height="106" width="103" x="126" y="60"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="112" width="151" x="143" y="93"/>
+         <taggedRectangle height="106" width="103" x="126" y="60"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="94" width="135" x="134" y="104"/>
+         <taggedRectangle height="98" width="117" x="136" y="53"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="94" width="135" x="134" y="104"/>
+         <taggedRectangle height="98" width="117" x="136" y="53"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="94" width="135" x="134" y="104"/>
+         <taggedRectangle height="98" width="117" x="136" y="53"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="109" width="159" x="106" y="93"/>
+         <taggedRectangle height="107" width="103" x="162" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="109" width="159" x="106" y="93"/>
+         <taggedRectangle height="107" width="103" x="162" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="109" width="159" x="106" y="93"/>
+         <taggedRectangle height="107" width="103" x="162" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="113" width="113" x="124" y="74"/>
+         <taggedRectangle height="111" width="89" x="185" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="113" width="113" x="124" y="74"/>
+         <taggedRectangle height="111" width="89" x="185" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="113" width="113" x="124" y="74"/>
+         <taggedRectangle height="111" width="89" x="185" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="117" width="132" x="110" y="67"/>
+         <taggedRectangle height="110" width="95" x="176" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="117" width="132" x="110" y="67"/>
+         <taggedRectangle height="110" width="95" x="176" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="117" width="132" x="110" y="67"/>
+         <taggedRectangle height="110" width="95" x="176" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="138" x="139" y="76"/>
+         <taggedRectangle height="106" width="112" x="153" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="138" x="139" y="76"/>
+         <taggedRectangle height="106" width="112" x="153" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="89" width="138" x="139" y="76"/>
+         <taggedRectangle height="106" width="112" x="153" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="140" x="160" y="70"/>
+         <taggedRectangle height="102" width="103" x="141" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="140" x="160" y="70"/>
+         <taggedRectangle height="102" width="103" x="141" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_vas_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="110" width="140" x="160" y="70"/>
+         <taggedRectangle height="102" width="103" x="141" y="78"/>
+      </taggedRectangles>
+   </image>
+</tagset>

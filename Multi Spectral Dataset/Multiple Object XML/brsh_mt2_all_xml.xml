@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>brsh_mt2_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="147" width="109" x="205" y="32"/>
+         <taggedRectangle height="140" width="100" x="155" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="147" width="109" x="205" y="32"/>
+         <taggedRectangle height="140" width="100" x="155" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="147" width="109" x="205" y="32"/>
+         <taggedRectangle height="140" width="100" x="155" y="41"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="122" width="222" x="139" y="52"/>
+         <taggedRectangle height="120" width="159" x="127" y="44"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="122" width="222" x="139" y="52"/>
+         <taggedRectangle height="120" width="159" x="127" y="44"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="122" width="222" x="139" y="52"/>
+         <taggedRectangle height="120" width="159" x="127" y="44"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="81" width="249" x="116" y="100"/>
+         <taggedRectangle height="82" width="197" x="98" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="81" width="249" x="116" y="100"/>
+         <taggedRectangle height="82" width="197" x="98" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="81" width="249" x="116" y="100"/>
+         <taggedRectangle height="82" width="197" x="98" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="129" width="209" x="135" y="97"/>
+         <taggedRectangle height="116" width="180" x="133" y="60"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="129" width="209" x="135" y="97"/>
+         <taggedRectangle height="116" width="180" x="133" y="60"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="129" width="209" x="135" y="97"/>
+         <taggedRectangle height="116" width="180" x="133" y="60"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="160" width="119" x="105" y="67"/>
+         <taggedRectangle height="134" width="104" x="167" y="51"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="160" width="119" x="105" y="67"/>
+         <taggedRectangle height="134" width="104" x="167" y="51"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="160" width="119" x="105" y="67"/>
+         <taggedRectangle height="134" width="104" x="167" y="51"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="113" width="127" x="61" y="101"/>
+         <taggedRectangle height="141" width="160" x="131" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="113" width="127" x="61" y="101"/>
+         <taggedRectangle height="141" width="160" x="131" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="113" width="127" x="61" y="101"/>
+         <taggedRectangle height="141" width="160" x="131" y="56"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="74" width="89" x="62" y="87"/>
+         <taggedRectangle height="93" width="192" x="119" y="94"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="74" width="89" x="62" y="87"/>
+         <taggedRectangle height="93" width="192" x="119" y="94"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="74" width="89" x="62" y="87"/>
+         <taggedRectangle height="93" width="192" x="119" y="94"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="71" width="106" x="91" y="47"/>
+         <taggedRectangle height="122" width="187" x="104" y="63"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="71" width="106" x="91" y="47"/>
+         <taggedRectangle height="122" width="187" x="104" y="63"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>brsh_mt2_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="71" width="106" x="91" y="47"/>
+         <taggedRectangle height="122" width="187" x="104" y="63"/>
+      </taggedRectangles>
+   </image>
+</tagset>

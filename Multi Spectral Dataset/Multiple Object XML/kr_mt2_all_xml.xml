@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>kr_mt2_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="116" x="171" y="69"/>
+         <taggedRectangle height="142" width="114" x="115" y="43"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="116" x="171" y="69"/>
+         <taggedRectangle height="142" width="114" x="115" y="43"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="116" x="171" y="69"/>
+         <taggedRectangle height="142" width="114" x="115" y="43"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="153" x="144" y="82"/>
+         <taggedRectangle height="134" width="185" x="105" y="35"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="153" x="144" y="82"/>
+         <taggedRectangle height="134" width="185" x="105" y="35"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="153" x="144" y="82"/>
+         <taggedRectangle height="134" width="185" x="105" y="35"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="136" x="142" y="89"/>
+         <taggedRectangle height="93" width="205" x="109" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="136" x="142" y="89"/>
+         <taggedRectangle height="93" width="205" x="109" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="136" x="142" y="89"/>
+         <taggedRectangle height="93" width="205" x="109" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="155" x="115" y="84"/>
+         <taggedRectangle height="123" width="196" x="140" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="155" x="115" y="84"/>
+         <taggedRectangle height="123" width="196" x="140" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="155" x="115" y="84"/>
+         <taggedRectangle height="123" width="196" x="140" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="112" x="115" y="73"/>
+         <taggedRectangle height="155" width="115" x="171" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="112" x="115" y="73"/>
+         <taggedRectangle height="155" width="115" x="171" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="112" x="115" y="73"/>
+         <taggedRectangle height="155" width="115" x="171" y="54"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="88" width="145" x="100" y="72"/>
+         <taggedRectangle height="133" width="190" x="104" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="88" width="145" x="100" y="72"/>
+         <taggedRectangle height="133" width="190" x="104" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="88" width="145" x="100" y="72"/>
+         <taggedRectangle height="133" width="190" x="104" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="72" width="127" x="151" y="77"/>
+         <taggedRectangle height="94" width="203" x="100" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="72" width="127" x="151" y="77"/>
+         <taggedRectangle height="94" width="203" x="100" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="72" width="127" x="151" y="77"/>
+         <taggedRectangle height="94" width="203" x="100" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="135" x="168" y="67"/>
+         <taggedRectangle height="134" width="190" x="84" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="135" x="168" y="67"/>
+         <taggedRectangle height="134" width="190" x="84" y="65"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_mt2_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="105" width="135" x="168" y="67"/>
+         <taggedRectangle height="134" width="190" x="84" y="65"/>
+      </taggedRectangles>
+   </image>
+</tagset>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>mt2_pnd2_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="123" width="82" x="164" y="56"/>
+         <taggedRectangle height="70" width="47" x="222" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="123" width="82" x="164" y="56"/>
+         <taggedRectangle height="70" width="47" x="222" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="123" width="82" x="164" y="56"/>
+         <taggedRectangle height="70" width="47" x="222" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="170" x="125" y="58"/>
+         <taggedRectangle height="53" width="103" x="184" y="113"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="170" x="125" y="58"/>
+         <taggedRectangle height="53" width="103" x="184" y="113"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="107" width="170" x="125" y="58"/>
+         <taggedRectangle height="53" width="103" x="184" y="113"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="76" width="176" x="131" y="73"/>
+         <taggedRectangle height="41" width="100" x="173" y="126"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="76" width="176" x="131" y="73"/>
+         <taggedRectangle height="41" width="100" x="173" y="126"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="76" width="176" x="131" y="73"/>
+         <taggedRectangle height="41" width="100" x="173" y="126"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="116" width="161" x="157" y="68"/>
+         <taggedRectangle height="66" width="93" x="147" y="108"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="116" width="161" x="157" y="68"/>
+         <taggedRectangle height="66" width="93" x="147" y="108"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="116" width="161" x="157" y="68"/>
+         <taggedRectangle height="66" width="93" x="147" y="108"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="129" width="85" x="182" y="60"/>
+         <taggedRectangle height="66" width="49" x="159" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="129" width="85" x="182" y="60"/>
+         <taggedRectangle height="66" width="49" x="159" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="129" width="85" x="182" y="60"/>
+         <taggedRectangle height="66" width="49" x="159" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="165" x="133" y="83"/>
+         <taggedRectangle height="46" width="93" x="143" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="165" x="133" y="83"/>
+         <taggedRectangle height="46" width="93" x="143" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="165" x="133" y="83"/>
+         <taggedRectangle height="46" width="93" x="143" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="80" width="182" x="115" y="98"/>
+         <taggedRectangle height="29" width="76" x="187" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="80" width="182" x="115" y="98"/>
+         <taggedRectangle height="29" width="76" x="187" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="80" width="182" x="115" y="98"/>
+         <taggedRectangle height="29" width="76" x="187" y="102"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="122" width="167" x="110" y="71"/>
+         <taggedRectangle height="57" width="84" x="189" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="122" width="167" x="110" y="71"/>
+         <taggedRectangle height="57" width="84" x="189" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="122" width="167" x="110" y="71"/>
+         <taggedRectangle height="57" width="84" x="189" y="87"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_m_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="124" width="79" x="169" y="54"/>
+         <taggedRectangle height="74" width="50" x="220" y="86"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_m_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="124" width="79" x="169" y="54"/>
+         <taggedRectangle height="74" width="50" x="220" y="86"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mt2_pnd2_m_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="124" width="79" x="169" y="54"/>
+         <taggedRectangle height="74" width="50" x="220" y="86"/>
+      </taggedRectangles>
+   </image>
+</tagset>

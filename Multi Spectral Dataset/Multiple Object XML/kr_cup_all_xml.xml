@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>kr_cup_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="102" x="194" y="94"/>
+         <taggedRectangle height="105" width="102" x="133" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="102" x="194" y="94"/>
+         <taggedRectangle height="105" width="102" x="133" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="102" width="102" x="194" y="94"/>
+         <taggedRectangle height="105" width="102" x="133" y="78"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="144" x="157" y="102"/>
+         <taggedRectangle height="102" width="98" x="138" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="144" x="157" y="102"/>
+         <taggedRectangle height="102" width="98" x="138" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="144" x="157" y="102"/>
+         <taggedRectangle height="102" width="98" x="138" y="66"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="83" width="135" x="139" y="120"/>
+         <taggedRectangle height="95" width="109" x="148" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="83" width="135" x="139" y="120"/>
+         <taggedRectangle height="95" width="109" x="148" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="83" width="135" x="139" y="120"/>
+         <taggedRectangle height="95" width="109" x="148" y="62"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="151" x="109" y="108"/>
+         <taggedRectangle height="102" width="113" x="164" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="151" x="109" y="108"/>
+         <taggedRectangle height="102" width="113" x="164" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="99" width="151" x="109" y="108"/>
+         <taggedRectangle height="102" width="113" x="164" y="67"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="111" x="109" y="89"/>
+         <taggedRectangle height="103" width="99" x="175" y="75"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="111" x="109" y="89"/>
+         <taggedRectangle height="103" width="99" x="175" y="75"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="108" width="111" x="109" y="89"/>
+         <taggedRectangle height="103" width="99" x="175" y="75"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="120" x="104" y="75"/>
+         <taggedRectangle height="98" width="94" x="168" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="120" x="104" y="75"/>
+         <taggedRectangle height="98" width="94" x="168" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="104" width="120" x="104" y="75"/>
+         <taggedRectangle height="98" width="94" x="168" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="85" width="128" x="136" y="81"/>
+         <taggedRectangle height="108" width="114" x="152" y="91"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="85" width="128" x="136" y="81"/>
+         <taggedRectangle height="108" width="114" x="152" y="91"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="85" width="128" x="136" y="81"/>
+         <taggedRectangle height="108" width="114" x="152" y="91"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="134" x="157" y="74"/>
+         <taggedRectangle height="102" width="106" x="126" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="134" x="157" y="74"/>
+         <taggedRectangle height="102" width="106" x="126" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>kr_cup_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="106" width="134" x="157" y="74"/>
+         <taggedRectangle height="102" width="106" x="126" y="84"/>
+      </taggedRectangles>
+   </image>
+</tagset>

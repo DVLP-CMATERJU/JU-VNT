@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>mem_whnt_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="67" x="188" y="103"/>
+         <taggedRectangle height="135" width="65" x="155" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="67" x="188" y="103"/>
+         <taggedRectangle height="135" width="65" x="155" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="67" x="188" y="103"/>
+         <taggedRectangle height="135" width="65" x="155" y="49"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="54" width="91" x="181" y="127"/>
+         <taggedRectangle height="99" width="183" x="131" y="72"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="54" width="91" x="181" y="127"/>
+         <taggedRectangle height="99" width="183" x="131" y="72"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="54" width="91" x="181" y="127"/>
+         <taggedRectangle height="99" width="183" x="131" y="72"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="82" x="163" y="134"/>
+         <taggedRectangle height="54" width="197" x="130" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="82" x="163" y="134"/>
+         <taggedRectangle height="54" width="197" x="130" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="59" width="82" x="163" y="134"/>
+         <taggedRectangle height="54" width="197" x="130" y="110"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="62" width="92" x="138" y="134"/>
+         <taggedRectangle height="107" width="165" x="146" y="93"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="62" width="92" x="138" y="134"/>
+         <taggedRectangle height="107" width="165" x="146" y="93"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="62" width="92" x="138" y="134"/>
+         <taggedRectangle height="107" width="165" x="146" y="93"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="60" width="62" x="140" y="119"/>
+         <taggedRectangle height="141" width="66" x="170" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="60" width="62" x="140" y="119"/>
+         <taggedRectangle height="141" width="66" x="170" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="60" width="62" x="140" y="119"/>
+         <taggedRectangle height="141" width="66" x="170" y="81"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="69" x="140" y="110"/>
+         <taggedRectangle height="121" width="144" x="122" y="93"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="69" x="140" y="110"/>
+         <taggedRectangle height="121" width="144" x="122" y="93"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="69" x="140" y="110"/>
+         <taggedRectangle height="121" width="144" x="122" y="93"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="29" width="71" x="165" y="124"/>
+         <taggedRectangle height="59" width="195" x="91" y="130"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="29" width="71" x="165" y="124"/>
+         <taggedRectangle height="59" width="195" x="91" y="130"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="29" width="71" x="165" y="124"/>
+         <taggedRectangle height="59" width="195" x="91" y="130"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="61" width="72" x="173" y="93"/>
+         <taggedRectangle height="116" width="141" x="99" y="64"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="61" width="72" x="173" y="93"/>
+         <taggedRectangle height="116" width="141" x="99" y="64"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>mem_whnt_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="61" width="72" x="173" y="93"/>
+         <taggedRectangle height="116" width="141" x="99" y="64"/>
+      </taggedRectangles>
+   </image>
+</tagset>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tagset>
+   <image>
+      <imageName>vas_ob2_a_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="78" x="171" y="36"/>
+         <taggedRectangle height="101" width="128" x="138" y="70"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_a_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="78" x="171" y="36"/>
+         <taggedRectangle height="101" width="128" x="138" y="70"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_a_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="58" width="78" x="171" y="36"/>
+         <taggedRectangle height="101" width="128" x="138" y="70"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_b_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="90" width="67" x="228" y="47"/>
+         <taggedRectangle height="98" width="125" x="138" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_b_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="90" width="67" x="228" y="47"/>
+         <taggedRectangle height="98" width="125" x="138" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_b_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="90" width="67" x="228" y="47"/>
+         <taggedRectangle height="98" width="125" x="138" y="71"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_c_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="94" width="58" x="236" y="91"/>
+         <taggedRectangle height="104" width="124" x="125" y="88"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_c_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="94" width="58" x="236" y="91"/>
+         <taggedRectangle height="104" width="124" x="125" y="88"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_c_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="94" width="58" x="236" y="91"/>
+         <taggedRectangle height="104" width="124" x="125" y="88"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_d_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="74" x="185" y="125"/>
+         <taggedRectangle height="104" width="125" x="117" y="89"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_d_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="74" x="185" y="125"/>
+         <taggedRectangle height="104" width="125" x="117" y="89"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_d_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="96" width="74" x="185" y="125"/>
+         <taggedRectangle height="104" width="125" x="117" y="89"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_e_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="84" width="84" x="151" y="142"/>
+         <taggedRectangle height="99" width="130" x="133" y="91"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_e_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="84" width="84" x="151" y="142"/>
+         <taggedRectangle height="99" width="130" x="133" y="91"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_e_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="84" width="84" x="151" y="142"/>
+         <taggedRectangle height="99" width="130" x="133" y="91"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_f_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="78" x="110" y="121"/>
+         <taggedRectangle height="106" width="128" x="139" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_f_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="78" x="110" y="121"/>
+         <taggedRectangle height="106" width="128" x="139" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_f_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="78" x="110" y="121"/>
+         <taggedRectangle height="106" width="128" x="139" y="84"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_g_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="60" x="114" y="102"/>
+         <taggedRectangle height="111" width="131" x="157" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_g_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="60" x="114" y="102"/>
+         <taggedRectangle height="111" width="131" x="157" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_g_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="91" width="60" x="114" y="102"/>
+         <taggedRectangle height="111" width="131" x="157" y="97"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_h_RGB</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="74" x="126" y="63"/>
+         <taggedRectangle height="105" width="127" x="148" y="94"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_h_corrected_NIR</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="74" x="126" y="63"/>
+         <taggedRectangle height="105" width="127" x="148" y="94"/>
+      </taggedRectangles>
+   </image>
+   <image>
+      <imageName>vas_ob2_h_corrected_THERMAL</imageName>
+      <taggedRectangles>
+         <taggedRectangle height="92" width="74" x="126" y="63"/>
+         <taggedRectangle height="105" width="127" x="148" y="94"/>
+      </taggedRectangles>
+   </image>
+</tagset>
